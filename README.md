@@ -17,3 +17,6 @@ revenz/wemoserver
 
 ## Registering a Client 
 run the container in "interactive mode" with "-i" command line argument. Then register on your client (e.g the android app), the container will then prompt (via console) to accept the registering user. Once registered. Stop the container and remove "-i" and turn off "interactive mode"
+
+## Prebuilt Docker Container
+You can get the prebuild docker container from https://hub.docker.com/r/revenz/wemoserver
